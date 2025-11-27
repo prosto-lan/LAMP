@@ -1,10 +1,10 @@
-import { APITester } from "./APITester";
+import LeftBlockNavigation from "./Components/LeftBlock/LeftBlockNavigation/LeftBlockNavigation";
 import "./index.css";
 
 export function App() {
   return (
     <div className="app">
-      <APITester />
+      <LeftBlockNavigation />
     </div>
   );
 }
