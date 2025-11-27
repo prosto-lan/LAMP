@@ -1,0 +1,9 @@
+.MyTracksWrapper{
+    display: flex;
+    flex-direction: column;
+}
+
+.MyTracksMain {
+    display: flex;
+    flex-direction: column;
+}

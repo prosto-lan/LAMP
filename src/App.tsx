@@ -1,10 +1,10 @@
-import LeftBlockNavigation from "./Components/LeftBlock/LeftBlockNavigation/LeftBlockNavigation";
+import Navigation from "./Components/LeftBlock/Navigation/Navigation";
 import "./index.css";
 
 export function App() {
   return (
     <div className="app">
-      <LeftBlockNavigation />
+      <Navigation />
     </div>
   );
 }
